@@ -1,0 +1,5 @@
+rat,Prey of cat.
+dog,A true friend.
+horse,Rideable mammals.
+rabbit,Associated with spring and Easter. 
+whale,The largest mammals in the world.

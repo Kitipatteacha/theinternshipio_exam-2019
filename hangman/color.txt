@@ -1,0 +1,5 @@
+red,Color of apple
+green,color between blue and yellow on the visible spectrum
+blue,Color of sky 
+yellow,Color of banana
+purple,Color of grape
